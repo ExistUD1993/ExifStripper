@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10%2B-blue?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/.NET-10.0-purple?style=for-the-badge&logo=dotnet">
-  <img src="https://img.shields.io/badge/ExifTool-12.xx-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ExifTool-green?style=for-the-badge">
 </p>
 
 <p align="center">
