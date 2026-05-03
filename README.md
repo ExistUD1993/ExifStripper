@@ -113,7 +113,7 @@ program opens and closes too fast
 
 ---
 
-## 💡 pro tips
+## 💡 tips
 
 - pin the .exe to your taskbar for faster access
 - works with: JPG, PNG, GIF, BMP, PDF, DOCX, XLSX, PPTX, MP4, MP3, and anything else ExifTool supports
